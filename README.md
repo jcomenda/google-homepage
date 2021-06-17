@@ -1,0 +1,1 @@
+I have demonstrated using the command line to create a new directory and navigate through directories. Create a new repo on git hub and cloning it to my local. Creating a new file through command line then updating it in vsCode
